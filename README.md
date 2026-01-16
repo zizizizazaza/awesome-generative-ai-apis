@@ -69,6 +69,7 @@ You can start contributing by adding the following:
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
 | [Vercel AI Gateway](https://vercel.com/ai-gateway) | [Link](https://vercel.com/docs/ai-gateway) | Y | Unified API endpoint across multiple AI model providers; supports model switching, fallback, spend monitoring, and OpenAI-compatible endpoints. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
+| [Hetu Protocol](https://parallel.hetu.org/) | [Link](https://parallel.hetu.org/apikey/pricing) | Y | P2P-based inference network using idle GPUs globally. OpenAI SDK compatible with drop-in replacement support. Free tier for open-source models. |
 
 
 ## GenAI API Integration Articles/Tutorials
